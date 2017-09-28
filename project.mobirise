@@ -1,0 +1,870 @@
+{
+  "settings": {
+    "currentPage": "services.html",
+    "versionFirst": "3.0",
+    "versionPublish": "4.3.2",
+    "name": "imyii",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/icon1-128x128.png",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 7,
+    "noImageResize": ""
+  },
+  "pages": {
+    "about.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: rgb(99, 20, 11);\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"444\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"445\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"446\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"447\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"448\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid yellow;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid red;\n    color: red;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-373"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Indie+Flower);\nH1 {\n\tfont-size: 100px;\n\tfont-family: 'Indie Flower', cursive;\n}\nh1 {\n    font-size: 200px ;\n}\nh1 {\n\nfont-size: 100px;  /*this is back up size*/\nfont-size: 12.9vw;\n}\na:link {\ntext-decoration: none;\n\n}",
+          "_customHTML": "<section class=\"mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted\" style=\"background-color: rgb(99, 20, 11);\">\n    <div class=\"mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-center\">\n        \n        <div class=\"mbr-box__container mbr-section__container container\">\n            <div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n                <div class=\"row\"><div class=\" col-sm-12\">\n                    <div class=\"mbr-hero animated fadeInUp\">\n                        <h1 class=\"mbr-hero__text mbr-editable-content\" style=\"font-family: Oxygen, sans-serif;\" code-editable-id=\"412\"><font color=\"yellow\">#</font>about</h1>\n                        <p class=\"mbr-hero__subtext mbr-editable-content\" code-editable-id=\"413\"><br><br><br><br><br>Before you start writing the code for your website, you should plan it first. What information are you showcasing? What fonts and colors are you using? What will your website look like? We outline a simple method you can follow to plan out your site's content and design.. &nbsp;<a href=\"more.html\" class=\"text-warning\"><font color=\"yellow\">more &gt;&gt;</font></a></p>\n                    </div>\n                    \n                </div></div>\n            </div></div>\n        </div>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header2-374",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "About",
+          "text": "<br>We are a team of passionate people who thrives ourselves to provide&nbsp;<br>best in class services to our customers. &nbsp;We design and develop<br>creative websites, apps with search engine friendly to communicate<br>your BRAND effectively.<br><br>We derive digital market campains including social campaigns, video production to&nbsp;find the right target audiences generating<br>targetted traffic.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a> "
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "35",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>imyii</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"services.html\">SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "more.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: rgb(7, 10, 81);\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"454\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"455\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"456\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"457\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"458\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid green;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid blue;\n    color: blue;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-375"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Indie+Flower);\nH1 {\n\tfont-size: 100px;\n\tfont-family: 'Indie Flower', cursive;\n}\nh1 {\n    font-size: 200px ;\n}\nh1 {\n\nfont-size: 100px;  /*this is back up size*/\nfont-size: 12.9vw;\n}\na:link {\ntext-decoration: none;\n\n}",
+          "_customHTML": "<section class=\"mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted\" style=\"background-color: rgb(7, 10, 81);\">\n    <div class=\"mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-center\">\n        \n        <div class=\"mbr-box__container mbr-section__container container\">\n            <div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n                <div class=\"row\"><div class=\" col-sm-12\">\n                    <div class=\"mbr-hero animated fadeInUp\">\n                        <h1 class=\"mbr-hero__text mbr-editable-content\" style=\"font-family: Oxygen, sans-serif;\" code-editable-id=\"382\"><font color=\"green\">#</font>more</h1>\n                        <p class=\"mbr-hero__subtext mbr-editable-content\" code-editable-id=\"383\"><br><br><br><br><br>Before you start writing the code for your website, you should plan it first. What information are you showcasing? What fonts and colors are you using? What will your website look like? We outline a simple method you can follow to plan out your site's content and design.. &nbsp;<a href=\"about.html\" class=\"text-success\">more &gt;&gt;</a></p>\n                    </div>\n                    \n                </div></div>\n            </div></div>\n        </div>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header2-376",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#6f4c72",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Branding",
+          "text": "<br>Branding is a set of marketing and communication methods that help to distinguish a company or products from competitors, aiming to create a lasting impression in the minds of customers. The key components that form a brand's toolbox include a brand’s identity, brand communication (such as by logos and trademarks), brand awareness, brand loyalty, and various branding (brand management) strategies<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "21px"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "35",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>imyii</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"services.html\">SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: #d14841;\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"464\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"465\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"466\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"467\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"468\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid purple;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid orange;\n    color: orange;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-377"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-0",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Us",
+          "form": {
+            "action": "ohepadirect@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "25",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>imyii</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"services.html\">SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: rgb(111, 76, 114);\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"424\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"425\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"426\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"427\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"428\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid RED;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid #bd7dfd;\n    color: #bd7dfd;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n@import url(https://fonts.googleapis.com/css?family=Slabo+27px);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Indie+Flower);\n\nH1 {\n\tfont-size: 100px;\n\tfont-family: 'Indie Flower', cursive;\n}\nh1 {\n    font-size: 200px ;\n}\nh1 {\n\nfont-size: 100px;  /*this is back up size*/\nfont-size: 12.9vw;\n}\na:link {\ntext-decoration: none;\n\n}",
+          "_customHTML": "<section class=\"mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted\" style=\"background-color: rgb(111, 76, 114);\">\n    <div class=\"mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-center\">\n        \n        <div class=\"mbr-box__container mbr-section__container container\">\n            <div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n                <div class=\"row\"><div class=\" col-sm-12\">\n                    <div class=\"mbr-hero animated fadeInUp\">\n                        <h1 class=\"mbr-hero__text mbr-editable-content\" style=\"font-family: Oxygen, sans-serif;\" code-editable-id=\"471\"><font color=\"red\">#</font>simple</h1>\n                        <p class=\"mbr-hero__subtext mbr-editable-content\" code-editable-id=\"472\"><br><br><br><br><br>Before you start writing the code for your website, you should plan it first. What information are you showcasing? What fonts and colors are you using? What will your website look like? We outline a simple method you can follow to plan out your site's content and design.. &nbsp;<a href=\"about.html\" class=\"text-grey\"><font color=\"red\">more &gt;&gt;</font></a></p>\n                    </div>\n                    \n                    \n                </div></div>\n            </div></div>\n            \n        </div>\n        \n        \n    </div>\n   \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header2-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Brand",
+          "text": "<br>A brand (or marque for car model) is a name, term, design, symbol, or other feature that distinguishes an organization or product from its rivals in the eyes of the customer. <br><br>Source:&nbsp;Wikipedia",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"more.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "35",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>imyii</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"services.html\">SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "services.html": {
+      "settings": {
+        "title": "Web Generator Title",
+        "meta_descr": "Web Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "120",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "title1": "Design &amp; Development",
+          "caption1": "Design &amp; develop mobile friendly, search engine ready &nbsp;websites and apps that is versatile and extendable.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "120",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "title2": "SEM &amp; SEO",
+          "caption2": "Driving Visitors to your website will increase user engagement to understand your business through search term relevancy.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "120",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "title3": "Social Marketing",
+          "caption3": "Derive marketing campaigns to run on social platofm such as Facebook, Google+, Twitter and Linkedin to target audiences.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "120",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "title4": "Video Production",
+          "caption4": "Produce engaging advertising or sales videos using latest web video technology delivering the product features &amp; benefits.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>imyii</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"services.html\">SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Wordpress Developers",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We build websites using WordPress, the world’s leading open-source platform. It allows us to design websites which not only look beautiful, but are also easy to use.</p><p><br></p><p>Simple yet powerful, WordPress can be used to bring any idea to life, from a basic three page website, to something far more advanced.</p><p><br></p><p>With a team of experienced and talented developers, we really know our stuff when it comes to getting the most out of this platform. We love WordPress, and you will too when you see what it can do.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x847.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Video Production",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We are at the forfront of technology and as such we are using the latest video equipment and software tools to product quality videos. &nbsp;People says a picture says a thousand words I am sure good videos do even more to engage vistors and customers.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
