@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "more.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.2",
     "name": "imyii",
@@ -21,7 +21,7 @@
   "pages": {
     "about.html": {
       "settings": {
-        "title": "",
+        "title": "About",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -82,7 +82,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c82c9"
+              "background": "#9365b8"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -132,7 +132,7 @@
     },
     "more.html": {
       "settings": {
-        "title": "",
+        "title": "Brand",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -200,7 +200,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c82c9"
+              "background": "#9365b8"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -250,7 +250,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "",
+        "title": "Contact",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -332,7 +332,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c82c9"
+              "background": "#9365b8"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -383,7 +383,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -444,7 +444,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c82c9"
+              "background": "#9365b8"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -494,7 +494,7 @@
     },
     "services.html": {
       "settings": {
-        "title": "Web Generator Title",
+        "title": "Services",
         "meta_descr": "Web Generator Description"
       },
       "components": [
